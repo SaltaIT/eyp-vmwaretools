@@ -1,7 +1,7 @@
 {
   "name": "eyp-vmwaretools",
   "version": "0.1.4",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "adds facts using vmwaretools, does not manage vmwaretools: it assumes they are already installed",
   "license": "Apache-2.0",
   "source": "",
