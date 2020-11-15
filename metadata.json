@@ -4,9 +4,9 @@
   "author": "Jordi Prats",
   "summary": "adds facts using vmwaretools, does not manage vmwaretools: it assumes they are already installed",
   "license": "Apache-2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/SaltaIT/eyp-vmwaretools",
+  "project_page": "https://github.com/SaltaIT/eyp-vmwaretools",
+  "issues_url": "https://github.com/SaltaIT/eyp-vmwaretools/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 4.6.0"}
   ]
